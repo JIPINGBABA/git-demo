@@ -14,4 +14,4 @@ Hello Vitesco Hello git!
 Hello Vitesco Hello git!
 Hello Vitesco Hello git!
 Hello Vitesco Hello git!  master test
-Hello Vitesco Hello git!
+Hello Vitesco Hello git! hot-fix test
